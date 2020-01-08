@@ -8,3 +8,5 @@ La classe était disposée principalement en table de 4,
 |-|-|
 :sparkles:BeCoder_1:sparkles: | :sparkles:BeCoder_2:sparkles:
 :sparkles:BeCoder_3:sparkles:| :sparkles:BeCoder_4:sparkles:
+
+6 tables de 4 , un beau bordel 
