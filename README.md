@@ -14,5 +14,5 @@ La classe était disposée principalement en table de 4,
 > Thomas Q
 
 
-<ol> mais ce bordel permet de un mieux travailde groupe</ol>
-<ol>enfin ça, c'est ce que voudrais les coach...</ol>
+<ol>1. mais ce bordel permet de un mieux travailde groupe</ol>
+<ol>2. enfin ça, c'est ce que voudrais les coach...</ol>
