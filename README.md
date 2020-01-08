@@ -12,3 +12,7 @@ La classe était disposée principalement en table de 4,
 6 tables de 4 , un beau bordel 
 > Sans fautes
 > Thomas Q
+
+
+<ol> mais ce bordel permet de un mieux travailde groupe</ol>
+<ol>enfin ça, c'est ce que voudrais les coach...</ol>
